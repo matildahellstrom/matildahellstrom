@@ -1,4 +1,4 @@
-## 📫 How to reach me:
+<h2 align="center">🎓 M.Sc. Student in Complex Adaptive Systems @ Chalmers University of Technology 👩‍💻</h2>
 
 <br>
 
